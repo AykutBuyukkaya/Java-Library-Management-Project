@@ -1,0 +1,8 @@
+Book [ ID= 546378, Author= George Orwell, Title= 1984 ]
+Book [ ID= 776348, Author= Sun Tzu, Title= Art Of War ]
+Book [ ID= 123456, Author= Aldous Huxley, Title= Brave New World ]
+Book [ ID= 856134, Author= J. R. R. Tolkien, Title= The Lord of the Rings ]
+Customer [ Name= Volkan Demirel, Birthdate= 1981, ID Number= 656986, Address= Fenerbahçe ]
+Customer [ Name= Conor McGregor, Birthdate= 1988, ID Number= 693145, Address= Dublin, Ireland ]
+Customer [ Name= Aykut Büyükkaya, Birthdate= 2001, ID Number= 123456789, Address= Konya ]
+Student [ Name= Aykut Büyükkaya, Birthdate= 2001, ID Number=123456789, School= Marmara University ]

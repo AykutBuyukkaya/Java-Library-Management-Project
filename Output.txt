@@ -1,0 +1,45 @@
+Book
+1984
+George Orwell
+546378
+
+Book
+Art Of War
+Sun Tzu
+776348
+
+Book
+Brave New World
+Aldous Huxley
+123456
+
+Book
+The Lord of the Rings
+J. R. R. Tolkien
+856134
+
+Customer
+Volkan Demirel
+656986
+1981
+Fenerbahçe
+
+Customer
+Conor McGregor
+693145
+1988
+Dublin, Ireland
+
+Customer
+Aykut Büyükkaya
+123456789
+2001
+Konya
+
+Student
+Aykut Büyükkaya
+123456789
+2001
+Konya
+Marmara University
+
